@@ -1,0 +1,53 @@
+#cal{
+	height: 255px;
+	width: 210px;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #dfd8d0;
+	border: 2px solid #908b85;
+	border-radius: 5px;
+	box-shadow: 10px 5px 20px 1px rgba(0, 0, 0, 0.68), inset -1px -6px 12px 0.1px #89847e;
+}
+
+#Result{
+	margin-top: 10px;
+	margin-left:6px;
+	margin-right:2px;
+	width: 192px;
+	height: 30px;
+	border-bottom: 2px;
+	background-color: #c3c2ab;
+}
+
+.btn{
+	width: 35px;
+	height: 35px;
+	background-color:white;
+	border-radius: 5px;
+	margin-left:2px;
+	
+}
+
+.red{
+	background-color: #a72d45;
+	color: white;
+}
+
+#equal{
+	width: 75px;	
+}
+#title{
+	margin-top: 10px;
+	margin-left: 60px;
+	color: #000080;
+	font-family: Lobster;
+	font-size: 20px;
+}
+#tuan{
+	font-size: 10px;
+	color: red;
+	margin-right: 20px;
+	margin-top: 8px;
+	
+}
